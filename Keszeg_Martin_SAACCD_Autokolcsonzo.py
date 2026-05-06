@@ -1,3 +1,5 @@
+# Keszeg Martin - SAACCD - Autókölcsönző
+
 import os
 from abc import ABC, abstractmethod
 from datetime import datetime, timedelta
